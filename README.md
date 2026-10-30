@@ -3,7 +3,7 @@
   <img alt="Laurence Wong. Product leader for loyalty, offers and AI shopping. I ship code with Claude." src="assets/profile-light.png">
 </picture>
 
-I've spent ten years deciding which offer a customer sees and what it costs. Now I build the AI that helps them shop.
+For most of the past decade I've worked on which offer a customer sees and what it costs. Now I build the AI that helps them shop.
 
 I'm not an engineer by training. I ship code anyway, with Claude. My fleet of about ten agents runs my calendar, inbox, research and writing every day. Evals and a permission layer hold anything outward-facing for my approval.
 
