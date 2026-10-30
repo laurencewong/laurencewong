@@ -7,6 +7,8 @@ For most of the past decade I've worked on which offer a customer sees and what 
 
 I'm not an engineer by training. I ship code anyway, with Claude. My fleet of about ten agents runs my calendar, inbox, research and writing every day. Evals and a permission layer hold anything outward-facing for my approval.
 
+**Member of my own technical staff** (headcount: me + about ten agents).
+
 **Now** · building one small tool or skill a day in public.
 
 ### The index
