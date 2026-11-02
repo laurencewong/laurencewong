@@ -19,6 +19,7 @@ I'm not an engineer by training. I ship code anyway, with Claude. My fleet of ab
 | LW‑02 | [conversation-design-playbook](https://github.com/laurencewong/conversation-design-playbook) | How to design LLM shopping and advice assistants, with 8 skills, era-tagged principles and credited sources. |
 | LW‑03 | [agent-fleet-patterns](https://github.com/laurencewong/agent-fleet-patterns) | The patterns behind my agent fleet, including a governed tool boundary and headless runners that don't silently die. |
 | LW‑04 | [field-manuals](https://github.com/laurencewong/field-manuals) | Production notes for people running AI agents. |
+| LW‑05 | [networking-into-jobs](https://github.com/laurencewong/networking-into-jobs) | An open guide and playbook for getting hired through referrals, built on the best career coaches' public advice. |
 | LW‑06 | [second-brain-notes](https://github.com/laurencewong/second-brain-notes) | Video breakdowns and thinker profiles from my notes system. A new note every weekday. |
 
 ### What I care about
