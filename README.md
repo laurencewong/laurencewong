@@ -27,4 +27,4 @@ I'm not an engineer by training. I ship code anyway, with Claude. My fleet of ab
 - **Evals before vibes.** If you can't measure it, you're guessing.
 - **PMs who can build.** The gap between PM and engineer is collapsing.
 
-Product lead for an AI shopping assistant at Sephora. Before that, loyalty at Sephora. Promotions and the shopping list at Albertsons. · [LinkedIn](https://www.linkedin.com/in/laurencewongg)
+GenAI Product Lead at Sephora. Before that, loyalty, promotions and shopping-list products. · [LinkedIn](https://www.linkedin.com/in/laurencewongg)
